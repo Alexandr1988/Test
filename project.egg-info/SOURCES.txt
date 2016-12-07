@@ -1,0 +1,13 @@
+setup.py
+bin/hello.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+testscrapyproj/__init__.py
+testscrapyproj/items.py
+testscrapyproj/pipelines.py
+testscrapyproj/settings.py
+testscrapyproj/spiders/__init__.py
+testscrapyproj/spiders/testspider.py
